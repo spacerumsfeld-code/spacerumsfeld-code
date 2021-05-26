@@ -2,10 +2,10 @@
 
 I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
 
-looking for opportunities\
-🔭 I’m currently working on:\
-I'm currently learning:\
-Today I am grateful for:
+:satellite: Currently looking for opportunities<br />
+:chart_with_upwards_trend: I’m currently working on: Sprucing up my digital cryptocurrency sentiment app (reinitializing in Next.JS, adding more digital assets<br />
+:books: I'm currently learning: Next.JS, <br />
+:weight_lifting: Today I am grateful for: Gyms being open again.
 
 ### Languages & Tools
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

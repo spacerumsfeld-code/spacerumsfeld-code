@@ -3,7 +3,7 @@
 I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
 
 :satellite: Currently looking for opportunities <br />
-:chart_with_upwards_trend: I’m currently working on: Adding authentication to Crypto-Utils)<br />
+:chart_with_upwards_trend: I’m currently working on: TypeScript toy problems from leetcode<br />
 :books: I'm currently learning: Authentication with NextAuth, hosting PostGRES databases with Supabase, and Prisma<br />
 :weight_lifting: Today I am grateful for: Gyms being open again.
 

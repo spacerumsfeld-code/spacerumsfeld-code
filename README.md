@@ -8,10 +8,15 @@ I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
 :weight_lifting: Today I am grateful for: Gyms being open again.
 
 ### Languages & Tools
-<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left alt="Vercel" width="30px"
-src="https://user-images.githubusercontent.com/73140718/123339612-c615d280-d4ff-11eb-9852-d69ef1adfaf0.png" />
+<img align="left" alt="TypeScript" width="30px"
+     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+     
+<img align="left" alt="JavaScript" width="30px"
+     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+     
+<img align="left" alt="Next.JS" width="30px"
+     src="https://user-images.githubusercontent.com/73140718/123340692-7cc68280-d501-11eb-9fac-dfd2efdd3584.png" />
+                                                                                                             
 <img align="left" alt="HTML5" width="30px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -22,6 +27,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Vercel" width="30px"
+src="https://user-images.githubusercontent.com/73140718/123339612-c615d280-d4ff-11eb-9852-d69ef1adfaf0.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /><br>
  
 ### Stats

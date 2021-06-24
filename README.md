@@ -23,7 +23,7 @@ I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
  
 ### Stats
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacerumsfeld-code&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacerumsfeld-code&layout=compact&theme=react&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacerumsfeld-code&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 

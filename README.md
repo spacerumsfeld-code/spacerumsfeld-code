@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="PostGRESQL" width="30px" src="https://camo.githubusercontent.com/1877deecf0e307dbbccdc67d6cfa8cc1b2a046e4834b427d5c9fe71a373121fe/68747470733a2f2f77696b692e706f737467726573716c2e6f72672f696d616765732f612f61342f506f737467726553514c5f6c6f676f2e33636f6c6f72732e737667" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/73140718/123341710-4b4eb680-d503-11eb-929b-986b723bd4db.png" />
 <img align="left" alt="Vercel" width="30px"
 src="https://user-images.githubusercontent.com/73140718/123339612-c615d280-d4ff-11eb-9852-d69ef1adfaf0.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /><br>

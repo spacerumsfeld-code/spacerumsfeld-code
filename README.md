@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
+I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast!
 
 :satellite: Currently looking for opportunities <br />
 :chart_with_upwards_trend: I’m currently working on: TypeScript toy problems from leetcode<br />

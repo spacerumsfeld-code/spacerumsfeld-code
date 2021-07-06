@@ -3,9 +3,10 @@
 I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
 
 :satellite: Currently looking for opportunities <br />
-:chart_with_upwards_trend: I’m currently working on: creating an npm package for Next.js/Prisma/TypeScript boilerplate code<br />
-:books: I'm currently learning: Authentication with NextAuth, hosting PostGRES databases with Supabase, and Prisma<br />
-:weight_lifting: Today I am grateful for: Gyms being open again.
+:test_tube: Most recent work: an npm package for Next.js/Prisma/TypeScript boilerplate code <br />
+:chart_with_upwards_trend: I’m currently working on: adding Google authentication and user database to Crypto-Utils<br />
+:books: I'm currently learning: using cache headers to rate limit API requests<br />
+:weight_lifting: Today I am grateful for: Gyms being open again
 
 ### Languages & Tools
 <img align="left" alt="TypeScript" width="30px"

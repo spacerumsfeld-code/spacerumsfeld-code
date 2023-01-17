@@ -29,11 +29,3 @@ src="https://user-images.githubusercontent.com/73140718/123340692-7cc68280-d501-
   <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
   
   <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" /><br>
- 
-### Stats
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacerumsfeld-code&layout=compact&theme=react&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacerumsfeld-code&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-

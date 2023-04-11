@@ -2,11 +2,6 @@
 
 I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
 
-:test_tube: Most recent work: an npm package for Next.js/Prisma/TypeScript boilerplate code <br />
-:chart_with_upwards_trend: I’m currently working on: cool stuff<br />
-:books: I'm currently learning: cool stuff<br />
-:weight_lifting: Today I am grateful for: Gyms being open again!
-
 ### Preferred Tools
   <img align="left" alt="TypeScript" width="30px"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nick Papadakis, a web developer and digital cryptocurrency enthusiast.
+I'm Nick Papadakis, a software engineer and digital cryptocurrency enthusiast.
 
 ### Preferred Tools
   <img align="left" alt="TypeScript" width="30px"
